@@ -1,1 +1,1 @@
-# SendGrid-Mail-API
+# Sendgrid-API
